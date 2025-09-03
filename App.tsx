@@ -1,10 +1,10 @@
 import React from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import Problem from './components/Problem';
-import Features from './components/Features';
-import SocialProof from './components/SocialProof';
-import CTA from './components/CTA';
+import Header from './Header';
+import Hero from './Hero';
+import Problem from './Problem';
+import Features from './Features';
+import SocialProof from './SocialProof';
+import CTA from './CTA';
 
 function App() {
   return (
