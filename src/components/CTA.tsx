@@ -1,5 +1,5 @@
 import React from 'react';
-import { Calendar, ArrowRight, CheckCircle } from 'lucide-react';
+import { Calendar, CheckCircle } from 'lucide-react';
 
 const CTA = () => {
   const benefits = [
